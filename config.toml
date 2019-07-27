@@ -3,7 +3,7 @@
 # And see https://gohugo.io/getting-started/configuration/ .
 
 baseURL = "http://knagamin.github.io/"
-title = "Ienventory - Personal blog"
+title = "Thought Ienventory"
 enableRobotsTXT = true
 enableEmoji = true
 theme = "jane"
@@ -67,7 +67,7 @@ defaultContentLanguage = "en"           # Default language to use
   rssFullContent = true     # if false, Rss feed instead of the summary
 
   # site info (optional)
-  logoTitle = "Inventory"        # default: the title value
+  logoTitle = "Thought Inventory"        # default: the title value
   keywords = ["python", "ansible"]
   description = "my tech blog for myself"
 
